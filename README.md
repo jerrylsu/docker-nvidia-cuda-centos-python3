@@ -1,1 +1,1 @@
-# docker-nvidia-cuda-centos-python3
+# nvidia-cuda10.0-cudnn7-runtime-centos7-python3
